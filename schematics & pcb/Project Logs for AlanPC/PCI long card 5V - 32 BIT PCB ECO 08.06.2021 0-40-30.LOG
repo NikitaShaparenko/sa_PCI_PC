@@ -1,0 +1,66 @@
+Removed Member From Class: ClassName=VT6212 Chipset Member=C?
+Removed Member From Class: ClassName=VT6212 Chipset Member=D?
+Removed Member From Class: ClassName=VT6212 Chipset Member=DP8
+Removed Member From Class: ClassName=VT6212 Chipset Member=DP10
+Removed Member From Class: ClassName=STM32 Motherboard 2 Member=R73
+Removed Member From Class: ClassName=VT6212 Chipset Member=U?
+Removed Member From Class: ClassName=VT6212 Chipset Member=U
+Removed Member From Class: ClassName=VT6212 Chipset Member=Y?
+Added Component: Designator=VT6212(NXP LQFP-144 SOT486-1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetVT6212_97 Pin=VT6212-97
+Added Pin To Net: NetName=NetVT6212_97 Pin=VT6212-104
+Change Class Name : Old Net Name=PCI long card 5V - 32 BIT New Net Name=VT6212 Chipset
+Change Class Name : Old Net Name=VT6212 Chipset New Net Name=PCI long card 5V - 32 BIT
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap Pol1
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap Pol1
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C? Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component D? Diode 1N4007
+Added Member To Class: ClassName=VT6212 Chipset Member=Component DP8 TP_VT6212_NC
+Added Member To Class: ClassName=VT6212 Chipset Member=Component DP10 TP_VT6212 TEST2
+Added Member To Class: ClassName=STM32 Motherboard 2 Member=Component R25 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? 
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? 1%
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R? Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=VT6212 Chipset Member=Component U AMS1117-3.3
+Added Member To Class: ClassName=VT6212 Chipset Member=Component VT6212 VIA VT6212 Chipset
+Added Member To Class: ClassName=STM32 Motherboard Member=Component W12B SPI MISO Shifter
+Added Member To Class: ClassName=VT6212 Chipset Member=Component Y? 24 Mhz

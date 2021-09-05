@@ -1,0 +1,42 @@
+Added Component: Designator=SlotA(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SlotB(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SlotC(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SlotA-1
+Added Pin To Net: NetName=GND Pin=SlotA-2
+Added Pin To Net: NetName=SlotA_CANH Pin=SlotA-3
+Added Pin To Net: NetName=SlotA_CANL Pin=SlotA-4
+Added Pin To Net: NetName=SlotA_UART_RX Pin=SlotA-5
+Added Pin To Net: NetName=SlotA_UART_TX Pin=SlotA-6
+Added Pin To Net: NetName=I2C0_SDA Pin=SlotA-7
+Added Pin To Net: NetName=I2C0_SCL Pin=SlotA-8
+Added Pin To Net: NetName=GND Pin=SlotA-9
+Added Pin To Net: NetName=GND Pin=SlotB-1
+Added Pin To Net: NetName=GND Pin=SlotB-2
+Added Pin To Net: NetName=SlotB_CANH Pin=SlotB-3
+Added Pin To Net: NetName=SlotB_CANL Pin=SlotB-4
+Added Pin To Net: NetName=SlotB_UART_RX Pin=SlotB-5
+Added Pin To Net: NetName=SlotB_UART_TX Pin=SlotB-6
+Added Pin To Net: NetName=I2C1_SCL Pin=SlotB-7
+Added Pin To Net: NetName=I2C1_SDA Pin=SlotB-8
+Added Pin To Net: NetName=GND Pin=SlotB-9
+Added Pin To Net: NetName=GND Pin=SlotC-1
+Added Pin To Net: NetName=GND Pin=SlotC-2
+Added Pin To Net: NetName=USART3_TX Pin=SlotC-3
+Added Pin To Net: NetName=USART3_RX Pin=SlotC-4
+Added Pin To Net: NetName=SlotC_UART_TX Pin=SlotC-5
+Added Pin To Net: NetName=SlotC_UART_RX Pin=SlotC-6
+Added Pin To Net: NetName=SlotC_DAC1 Pin=SlotC-7
+Added Pin To Net: NetName=SlotC_DAC0 Pin=SlotC-8
+Added Pin To Net: NetName=GND Pin=SlotC-9

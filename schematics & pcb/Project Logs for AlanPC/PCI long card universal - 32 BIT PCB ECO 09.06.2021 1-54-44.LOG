@@ -1,0 +1,140 @@
+Removed Member From Class: ClassName=PCI long card 5V - 32 BIT Member=R?
+Change Component Footprint: Designator=P1 Old Footprint=PCIUV32BIT New Footprint=HDR2X20
+Change Component Comment : Designator=P1 Old Comment=PCIUV32BIT New Comment=Raspberry Pi 2/3/4 Expansion Slot
+Change Component Designator: OldDesignator=C? NewDesignator=C69
+Change Component Designator: OldDesignator=C? NewDesignator=C70
+Change Component Designator: OldDesignator=C? NewDesignator=C71
+Change Component Designator: OldDesignator=C? NewDesignator=C72
+Change Component Designator: OldDesignator=C? NewDesignator=C73
+Change Component Designator: OldDesignator=C? NewDesignator=C74
+Change Component Designator: OldDesignator=C? NewDesignator=C75
+Change Component Designator: OldDesignator=C? NewDesignator=C76
+Change Component Designator: OldDesignator=C? NewDesignator=C77
+Change Component Designator: OldDesignator=C? NewDesignator=C78
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=R? NewDesignator=R74
+Change Component Designator: OldDesignator=R? NewDesignator=R75
+Change Component Designator: OldDesignator=R? NewDesignator=R76
+Change Component Designator: OldDesignator=R? NewDesignator=R77
+Change Component Designator: OldDesignator=R? NewDesignator=R78
+Change Component Designator: OldDesignator=R? NewDesignator=R79
+Change Component Designator: OldDesignator=R? NewDesignator=R80
+Change Component Designator: OldDesignator=R? NewDesignator=R81
+Change Component Designator: OldDesignator=R? NewDesignator=R82
+Change Component Designator: OldDesignator=R? NewDesignator=R83
+Change Component Designator: OldDesignator=R? NewDesignator=R84
+Change Component Designator: OldDesignator=R? NewDesignator=R85
+Change Component Designator: OldDesignator=R? NewDesignator=R86
+Change Component Designator: OldDesignator=R? NewDesignator=R87
+Change Component Designator: OldDesignator=R? NewDesignator=R88
+Change Component Designator: OldDesignator=R? NewDesignator=R89
+Change Component Designator: OldDesignator=R? NewDesignator=R90
+Change Component Designator: OldDesignator=R? NewDesignator=R91
+Change Component Designator: OldDesignator=R? NewDesignator=R92
+Change Component Designator: OldDesignator=R? NewDesignator=R93
+Change Component Designator: OldDesignator=R? NewDesignator=R94
+Change Component Designator: OldDesignator=R? NewDesignator=R95
+Change Component Designator: OldDesignator=R? NewDesignator=R96
+Change Component Designator: OldDesignator=R? NewDesignator=R97
+Change Component Designator: OldDesignator=R? NewDesignator=R98
+Change Component Designator: OldDesignator=R? NewDesignator=R99
+Change Component Designator: OldDesignator=R? NewDesignator=R100
+Change Component Designator: OldDesignator=R? NewDesignator=R101
+Change Component Designator: OldDesignator=R? NewDesignator=R102
+Change Component Designator: OldDesignator=R? NewDesignator=R103
+Change Component Designator: OldDesignator=R? NewDesignator=R104
+Change Component Designator: OldDesignator=R? NewDesignator=R105
+Change Component Designator: OldDesignator=R? NewDesignator=R106
+Change Component Designator: OldDesignator=R? NewDesignator=R107
+Change Component Designator: OldDesignator=R? NewDesignator=R108
+Change Component Designator: OldDesignator=U NewDesignator=S3
+Change Component Designator: OldDesignator=U? NewDesignator=S2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y8
+Change component parameters: Designator = "P1"; Footprint = "HDR2X20"; UniqueID = "\JNWJVUUB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RPES_3V3_Sence_0 Pin=P1-1
+Added Pin To Net: NetName=RPES_5V_Sence_0 Pin=P1-2
+Added Pin To Net: NetName=RPES_I2C_SDA Pin=P1-3
+Added Pin To Net: NetName=RPES_5V_Sence_1 Pin=P1-4
+Added Pin To Net: NetName=RPES_I2C_SCL Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=RPES_GPIO_PA_0 Pin=P1-7
+Added Pin To Net: NetName=RPES_UART_TX Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=RPES_UART_RX Pin=P1-10
+Added Pin To Net: NetName=RPES_GPIO_PA_1 Pin=P1-11
+Added Pin To Net: NetName=RPES_GPIO_PB_0 Pin=P1-12
+Added Pin To Net: NetName=RPES_GPIO_PA_2 Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=RPES_GPIO_PA_3 Pin=P1-15
+Added Pin To Net: NetName=RPES_GPIO_PB_1 Pin=P1-16
+Added Pin To Net: NetName=RPES_3V3_Sence_1 Pin=P1-17
+Added Pin To Net: NetName=RPES_GPIO_PB_2 Pin=P1-18
+Added Pin To Net: NetName=RPES_SPI0_MOSI Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=RPES_SPI0_MISO Pin=P1-21
+Added Pin To Net: NetName=RPES_GPIO_PB_3 Pin=P1-22
+Added Pin To Net: NetName=RPES_SPI0_SCK Pin=P1-23
+Added Pin To Net: NetName=RPES_GPIO_PB_4 Pin=P1-24
+Added Pin To Net: NetName=GND Pin=P1-25
+Added Pin To Net: NetName=RPES_GPIO_PB_5 Pin=P1-26
+Added Pin To Net: NetName=NetM3_5 Pin=P1-27
+Added Pin To Net: NetName=NetM3_6 Pin=P1-28
+Added Pin To Net: NetName=RPES_GPIO_PA_4 Pin=P1-29
+Added Pin To Net: NetName=GND Pin=P1-30
+Added Pin To Net: NetName=RPES_GPIO_PA_5 Pin=P1-31
+Added Pin To Net: NetName=RPES_GPIO_PB_6 Pin=P1-32
+Added Pin To Net: NetName=RPES_GPIO_PA_6 Pin=P1-33
+Added Pin To Net: NetName=GND Pin=P1-34
+Added Pin To Net: NetName=RPES_SPI0_MISO Pin=P1-35
+Added Pin To Net: NetName=RPES_GPIO_PA_7 Pin=P1-36
+Added Pin To Net: NetName=RPES_GPIO_PB_7 Pin=P1-37
+Added Pin To Net: NetName=RPES_SPI0_MOSI Pin=P1-38
+Added Pin To Net: NetName=GND Pin=P1-39
+Added Pin To Net: NetName=RPES_SPI0_SCK Pin=P1-40
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C69 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C70 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C71 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C72 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C73 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C74 Cap Pol1
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C76 Cap Pol1
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C77 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component C78 Cap2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R74 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R75 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R76 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R77 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R78 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R79 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R80 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R81 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R82 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R83 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R84 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R85 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R86 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R87 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R88 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R89 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R90 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R91 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R92 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R93 Res2
+Added Member To Class: ClassName=PCI long card 5V - 32 BIT Member=Component R94 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R95 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R96 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R97 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R98 
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R100 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R101 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R102 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R103 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R104 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R105 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R106 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R107 Res2
+Added Member To Class: ClassName=VT6212 Chipset Member=Component R108 1%

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=RPES_SPI1_SCK Pin=U4-21
+Added Pin To Net: NetName=RPES_SPI1_MISO Pin=U4-22
+Added Pin To Net: NetName=RPES_SPI1_MOSI Pin=U4-23

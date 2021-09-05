@@ -1,0 +1,118 @@
+Added Component: Designator=AUSB(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PWP(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SlotA(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SlotB(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SlotC(SATA Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W?(RAD-0.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W?(RAD-0.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB2_D- Pin=AUSB-3
+Added Pin To Net: NetName=USB3_D- Pin=AUSB-4
+Added Pin To Net: NetName=USB2_D+ Pin=AUSB-5
+Added Pin To Net: NetName=USB3_D+ Pin=AUSB-6
+Added Pin To Net: NetName=GND Pin=AUSB-7
+Added Pin To Net: NetName=GND Pin=AUSB-8
+Added Pin To Net: NetName=+3.3 Pin=C22-1
+Added Pin To Net: NetName=+3.3 Pin=C23-1
+Added Pin To Net: NetName=+3.3 Pin=C24-1
+Added Pin To Net: NetName=+3.3 Pin=C25-1
+Added Pin To Net: NetName=+3.3 Pin=C26-1
+Added Pin To Net: NetName=+3.3 Pin=C27-1
+Added Pin To Net: NetName=+3.3 Pin=C30-1
+Added Pin To Net: NetName=+3.3 Pin=C34-1
+Added Pin To Net: NetName=+3.3 Pin=C35-1
+Added Pin To Net: NetName=+12 Pin=PWP-1
+Added Pin To Net: NetName=GND Pin=PWP-3
+Added Pin To Net: NetName=GND Pin=SlotA-1
+Added Pin To Net: NetName=GND Pin=SlotA-2
+Added Pin To Net: NetName=SlotA_UART_RX Pin=SlotA-5
+Added Pin To Net: NetName=SlotA_UART_TX Pin=SlotA-6
+Added Pin To Net: NetName=GND Pin=SlotA-9
+Added Pin To Net: NetName=GND Pin=SlotB-1
+Added Pin To Net: NetName=GND Pin=SlotB-2
+Added Pin To Net: NetName=SlotB_UART_RX Pin=SlotB-5
+Added Pin To Net: NetName=SlotB_UART_TX Pin=SlotB-6
+Added Pin To Net: NetName=GND Pin=SlotB-9
+Added Pin To Net: NetName=GND Pin=SlotC-1
+Added Pin To Net: NetName=GND Pin=SlotC-2
+Added Pin To Net: NetName=GND Pin=SlotC-9
+Added Pin To Net: NetName=GNDUSB1 Pin=VT6212L-75
+Added Pin To Net: NetName=GNDUSB1 Pin=VT6212L-79
+Added Pin To Net: NetName=VCCPLL Pin=VT6212L-89
+Added Pin To Net: NetName=GNDPLL Pin=VT6212L-90
+Added Pin To Net: NetName=GND Pin=VT6212L-93
+Added Pin To Net: NetName=NetR39_1 Pin=W7-2
+Added Pin To Net: NetName=GND Pin=W?-1
+Added Pin To Net: NetName=+5 Pin=W?-2
+Added Pin To Net: NetName=NetAUSB_1 Pin=AUSB-1
+Added Pin To Net: NetName=NetAUSB_1 Pin=AUSB-2
+Added Pin To Net: NetName=NetAUSB_1 Pin=W?-1
+Added Net: Name=NetAUSB_1
+Added Pin To Net: NetName=NetPWP_2 Pin=PWP-2
+Added Pin To Net: NetName=NetPWP_2 Pin=W?-2
+Added Net: Name=NetPWP_2
+Added Pin To Net: NetName=SlotA_CAN_RX Pin=SlotA-3
+Added Net: Name=SlotA_CAN_RX
+Added Pin To Net: NetName=SlotA_CAN_TX Pin=SlotA-4
+Added Net: Name=SlotA_CAN_TX
+Added Pin To Net: NetName=SlotA_I2C_SCL Pin=SlotA-7
+Added Net: Name=SlotA_I2C_SCL
+Added Pin To Net: NetName=SlotA_I2C_SDA Pin=SlotA-8
+Added Net: Name=SlotA_I2C_SDA
+Added Pin To Net: NetName=SlotB_CAN_RX Pin=SlotB-3
+Added Net: Name=SlotB_CAN_RX
+Added Pin To Net: NetName=SlotB_CAN_TX Pin=SlotB-4
+Added Net: Name=SlotB_CAN_TX
+Added Pin To Net: NetName=SlotB_I2C_SCL Pin=SlotB-7
+Added Net: Name=SlotB_I2C_SCL
+Added Pin To Net: NetName=SlotB_I2C_SDA Pin=SlotB-8
+Added Net: Name=SlotB_I2C_SDA
+Added Pin To Net: NetName=SlotC_DAC0 Pin=SlotC-8
+Added Net: Name=SlotC_DAC0
+Added Pin To Net: NetName=SlotC_DAC1 Pin=SlotC-7
+Added Net: Name=SlotC_DAC1
+Added Pin To Net: NetName=SlotC_UART0_RX Pin=SlotC-6
+Added Net: Name=SlotC_UART0_RX
+Added Pin To Net: NetName=SlotC_UART0_TX Pin=SlotC-5
+Added Net: Name=SlotC_UART0_TX
+Added Pin To Net: NetName=SlotC_UART1_RX Pin=SlotC-4
+Added Net: Name=SlotC_UART1_RX
+Added Pin To Net: NetName=SlotC_UART1_TX Pin=SlotC-3
+Added Net: Name=SlotC_UART1_TX
+Added Pin To Net: NetName=VCC_Rasbp Pin=PWP-4
+Added Net: Name=VCC_Rasbp
+Added Pin To Net: NetName=VCCUSB Pin=VT6212L-84
+Added Net: Name=VCCUSB

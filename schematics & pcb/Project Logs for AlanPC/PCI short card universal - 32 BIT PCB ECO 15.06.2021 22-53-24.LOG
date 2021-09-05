@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GNDUSB Pin=VT6212L-83
+Added Pin To Net: NetName=GNDUSB Pin=VT6212L-87
+Added Net: Name=GNDUSB
+Added Pin To Net: NetName=NetDP10_1 Pin=DP10-1
+Added Pin To Net: NetName=NetDP10_1 Pin=VT6212L-102
+Added Net: Name=NetDP10_1
+Added Pin To Net: NetName=NetR98_2 Pin=R98-2
+Added Pin To Net: NetName=NetR98_2 Pin=VT6212L-99
+Added Net: Name=NetR98_2
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR107_2 Pin=VT6212L-98
+Added Net: Name=NetR107_2
+Added Pin To Net: NetName=NetR108_2 Pin=R108-2
+Added Pin To Net: NetName=NetR108_2 Pin=VT6212L-88
+Added Net: Name=NetR108_2

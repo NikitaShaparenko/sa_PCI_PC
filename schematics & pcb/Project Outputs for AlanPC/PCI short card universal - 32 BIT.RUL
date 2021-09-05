@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: C:\Users\nikit\Desktop\Alan3\PCI short card universal - 32 BIT.PCBDOC
+RuleKind=Width|RuleName=Width 3 Oz_2|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width 3 Oz_1|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width 1/2 Oz|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width 1 Oz|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width 2 Oz|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width 3 Oz|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance-1 1/2 Oz|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Clearance 3 Oz|Scope=Board|Minimum=13.78
+RuleKind=Clearance|RuleName=Clearance 2 Oz|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance-1 1 Oz|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00

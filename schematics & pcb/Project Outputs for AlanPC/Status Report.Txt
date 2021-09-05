@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AlanPC.PrjPcb]
+   Generated File[PCI short card universal - 32 BIT.TXT]
+   Generated File[PCI short card universal - 32 BIT.LDP]
+   Generated File[PCI short card universal - 32 BIT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:15:42 On 18.06.2021

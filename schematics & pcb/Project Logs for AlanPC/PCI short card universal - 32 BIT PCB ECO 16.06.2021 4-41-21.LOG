@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=GPIO
+Change Component Designator: OldDesignator=W? NewDesignator=W24
+Change Component Designator: OldDesignator=W? NewDesignator=W25
+Added Pin To Net: NetName=NetGPIO_27 Pin=M3-5
+Added Pin To Net: NetName=NetGPIO_27 Pin=R17-2
+Added Net: Name=NetGPIO_27
+Added Pin To Net: NetName=NetGPIO_28 Pin=M3-6
+Added Pin To Net: NetName=NetGPIO_28 Pin=R16-2
+Added Net: Name=NetGPIO_28

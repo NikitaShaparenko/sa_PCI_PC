@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCI short card universal - 32 BIT.PCBDOC   18.06.2021  13:15:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TopLayer to BottomLayer
+ASCII RoundHoles File : PCI short card universal - 32 BIT.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             387       PTH        0.00inch (0.00mm)
+T2      28mil (0.701mm)                                           Round             158       PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             126       PTH        0.00inch (0.00mm)
+T4      34mil (0.851mm)                                           Round             218       PTH        0.00inch (0.00mm)
+T5      35mil (0.899mm)                                           Round             198       PTH        0.00inch (0.00mm)
+T6      36mil (0.902mm)                                           Round             132       PTH        0.00inch (0.00mm)
+T7      36mil (0.919mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             15        PTH        0.00inch (0.00mm)
+T9      47mil (1.199mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T10     65mil (1.651mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T11     80mil (2.032mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T12     91mil (2.301mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T13     120mil (3.048mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T14     160mil (4.064mm)                                          Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1262
+
+Total Processing Time (hh:mm:ss) : 00:00:01
